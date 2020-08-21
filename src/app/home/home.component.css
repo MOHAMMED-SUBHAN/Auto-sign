@@ -1,0 +1,21 @@
+.fa-exclamation-circle{
+    color: rgb(16, 16, 172);
+}
+
+.fa-chevron-right{
+    font-size: 12px;
+    color: gray;
+    
+}
+
+.fa-warning{
+    color: red;
+}
+
+.fa-check{
+    color: green;
+}
+
+.text-justify{
+text-align: justify;
+}

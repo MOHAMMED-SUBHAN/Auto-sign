@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "docusign"
+    }
+  },
+  "defaultProject": "docusign",
+  "cli": {
+    "analytics": "af1ce22f-d3e4-4aaf-8fea-cd6c66d9ca6b"
+  }
 }
